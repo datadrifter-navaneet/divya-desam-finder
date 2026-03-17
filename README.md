@@ -1,39 +1,20 @@
-# Divya-Desam-Finder
-Divya Desams are 108 sacred Vishnu temples located across India and Nepal. All of the 108 divya desams find mention in the Nalariya Divya Prabandam, comprising of over 4000 songs composed over 5000 years ago in old Tamil. My application aims to be a modern web application that helps users discover the 108 Divya Desams  based on their current location or a searched city. The app calculates distances and presents temples in order of proximity, making spiritual journeys easier and more accessible.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
- Location-based search
-Enter a city (e.g., Madurai, Srirangam) to find nearby Divya Desams.
+# Run and deploy your AI Studio app
 
- Use current location
-Automatically detect your location and show nearest temples.
+This contains everything you need to run your app locally.
 
- Distance calculation
-Temples are sorted based on distance.
+View your app in AI Studio: https://ai.studio/apps/495d52ac-6199-4c7c-ab81-afad76b5832e
 
- Google Maps integration
-Open temple locations directly in maps for navigation.
+## Run Locally
 
- Temple details
-View descriptions(very brief) and grouping (e.g., Chola Nadu, Pandya Nadu).
-
-Tech Stack Used
-Frontend:React 
-Styling:CSS
-Animations:Motion
-Geolocation:Browser Geolocation API (you have to give permission)
+**Prerequisites:**  Node.js
 
 
- Project Structure
-src/
- ├── App.tsx                # Main application UI
- ├── data/
- │     temples.ts           # Dataset of Divya Desams
- ├── utils/
- │     distance.ts          # Distance calculation logic
- ├── services/
- │     geocoding.ts         # Location to coordinates conversion
-
-THANK YOU!
-
-OM NAMO NARAYANA!!!
-
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

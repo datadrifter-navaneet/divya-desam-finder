@@ -1,0 +1,5 @@
+{
+  "name": "108 Divya Desam Finder",
+  "description": "Find and explore the 108 sacred Divya Desam temples based on your location.",
+  "requestFramePermissions": ["geolocation"]
+}
