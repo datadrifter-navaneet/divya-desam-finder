@@ -1,5 +1,5 @@
 # Divya-Desam-Finder
-Divya Desams are 108 sacred vsihnu temples located across India and Nepal. All of the 108 divya desams find mention in the Nalariya Divya Prabandam, comprising of over 4000 songs composed over 5000 years ago inold Tamil. My application aims to be a modern web application that helps users discover the 108 Divya Desams  based on their current location or a searched city. The app calculates distances and presents temples in order of proximity, making spiritual journeys easier and more accessible.
+Divya Desams are 108 sacred Vishnu temples located across India and Nepal. All of the 108 divya desams find mention in the Nalariya Divya Prabandam, comprising of over 4000 songs composed over 5000 years ago inold Tamil. My application aims to be a modern web application that helps users discover the 108 Divya Desams  based on their current location or a searched city. The app calculates distances and presents temples in order of proximity, making spiritual journeys easier and more accessible.
 
  Location-based search
 Enter a city (e.g., Madurai, Srirangam) to find nearby Divya Desams.
